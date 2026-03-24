@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/backend-tests-java-quarkus-rebmejtw:azure-82cdc55bce7b5f3905f45fdc9ee98b9467505e13
+        - image: quay.io/rhtap_qe/backend-tests-java-quarkus-rebmejtw:azure-b615251ea53f7c3e792c079c60dacfd54a842ae9
           name: container-image
